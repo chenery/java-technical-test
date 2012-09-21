@@ -13,9 +13,9 @@ Implement the method stubs in the JavaTest.java class, and write JUnit test meth
 
 - Clone this git repository and ensure tests execute:
 
-    $ git clone https://github.com/chenery/java-technical-test.git
-    $ cd java-technical-test/
-    $ mvn test
+    `$ git clone https://github.com/chenery/java-technical-test.git`
+    `$ cd java-technical-test/`
+    `$ mvn test`
 
 - Complete the test class (You can use whatever IDE/editor you like).  See further instructions/comments inline.
 - Return to paul@solidstategroup.com with the allowed time period.
