@@ -7,7 +7,7 @@ Core Java programming questions.  Primarily usage of the Java Collections API.
 
 Implement the method stubs in the JavaTest.java class, and write JUnit test methods to prove your implementation.  The first test is already written to get you started.
 
-**bold**Note: This test should be setup, completed and returned within 1.5hrs.  The quicker you can return it, the more credit you will receive.
+**Note: This test should be setup, completed and returned within 1.5hrs.  The quicker you can return it, the more credit you will receive.**
 
 ## Instructions if using Git and Maven:
 
