@@ -1,1 +1,9 @@
 target/
+out/
+overlays/
+
+*.iml
+*.ipr
+*.iws
+*.idea
+*.idea/*
