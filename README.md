@@ -9,6 +9,8 @@ Implement the method stubs in the com.chenery.test.JavaTest.java class, and writ
 
 **Note: This test should be setup, completed and returned within 1.5hrs.  The quicker you can return it, the more credit you will receive.**
 
+**Note: Please do not push your test answers back onto Github.**
+
 ## Instructions if using Git and Maven:
 
 - Clone this git repository and ensure tests execute.
