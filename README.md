@@ -1,32 +1,37 @@
 java-technical-test
 ===================
 
-Core Java programming questions.  Primarily usage of the Java Collections API.
+Java programming questions.
 
-## Summary
+## Instructions
 
-Implement the method stubs in the com.chenery.test.JavaTest.java class, and write JUnit test methods to prove your implementation.  The first test is already written to get you started.
+1. Clone this git repository which contains a number of Java source files and open as a project in your editor of choice.
+2. Answer the three questions listed below by providing the missing implementations.  Do NOT use 3rd party libraries.
+3. Provide tests in your preferred style to support your solution.  You can use common test libraries such as junit and mockito.
+4. Zip up and email the entire source tree to paul@solidstategroup.com
 
-**Note: This test should be setup, completed and returned within 1.5hrs.  The quicker you can return it, the more credit you will receive.**
+In addition to a working solution, we will be looking for:
+
+- Good coding style
+- Use comments - especially if you get stuck on a question
+- Understanding of object orientation
+- Understanding of concurrency issues that might arise
 
 **Note: Please do not push your test answers back onto Github.**
 
-## Instructions if using Git and Maven:
+## Question 1: Palindrome
 
-- Clone this git repository and ensure tests execute.
+Complete the method stub in the Palindrome class.
 
-Commands:
+## Question 2: Tree Average Value
 
-	$ git clone https://github.com/chenery/java-technical-test.git
-	$ cd java-technical-test/
-	$ mvn test
+Complete the method stub in the TreeAverageValue class.
 
-- Complete the test class (You can use whatever IDE/editor you like).  See further instructions/comments inline.
-- Return to paul@solidstategroup.com with the allowed time period.
+## Question 3: Parallel Multi Search
 
-## Instructions if NOT using Git and Maven:
+Complete the method stub in the ParallelMultiSearch class to provide a fast implementation of the search.
 
-- Create a new project in your IDE/editor.
-- The com.chenery.test.JavaTest.java class is dependent on JUnit.  Download the JUnit jar file and place on your classpath (https://github.com/downloads/KentBeck/junit/junit-4.10.jar).
-- Complete the test class.  See further instructions/comments inline.
-- Return to paul@solidstategroup.com with the allowed time period.
+Note: Assume each Searchable is independent to the others.
+
+Note: The order of the results returned by the MultiSearch is not important.
+
