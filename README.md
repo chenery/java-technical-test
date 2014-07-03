@@ -13,7 +13,7 @@ Java programming questions.
 In addition to a working solution, we will be looking for:
 
 - Good coding style
-- Use comments - especially if you get stuck on a question
+- Use of comments - especially if you get stuck on a question
 - Understanding of object orientation
 - Understanding of concurrency issues that might arise
 
