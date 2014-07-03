@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.List;
 
 /**
- * Execute {@link MultiSearch} is parallel for speed.
+ * Execute {@link MultiSearch} in parallel for speed.
  */
 public class ParallelMultiSearch extends MultiSearch {
 
