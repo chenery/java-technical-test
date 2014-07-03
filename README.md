@@ -31,17 +31,19 @@ Complete the method stub in the TreeAverageValue class.
 
 Review the Search interface.  The search method on this interface represents a generic Search.
 
-Example concrete class usage - search google for "London"
+Example concrete class: GoogleSearch - usage - search google for "London"
 
 Review the MultiSearch class.  The aim of this class is to provide multiple searches using the same query over a
 defined set of searches.  The results of all the searches are to be aggregated.
 
-Example concrete class usage - search google and yahoo and bing for "London"
+Example concrete class: SerialMultiSearch - usage - search google and yahoo searches for "London", in serial fashion
 
 As a single search call made to a resource might take a considerable amount of time, ParallelMultiSearch
 will execute all the searches in the MultiSearch in parallel to provide a quicker overall implementation.
 
 Complete the method stub in the ParallelMultiSearch class to provide a fast implementation of the search.
+
+Example usage: - search google and yahoo searches for "London", in parallel fashion
 
 Note: Assume each Searchable is independent to the others.
 
