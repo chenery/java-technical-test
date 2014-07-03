@@ -4,15 +4,15 @@ import java.io.IOException;
 import java.util.List;
 
 /**
- *  Interface for a single Searchable resource
+ *  Interface for a generic Search
  */
-public interface Searchable {
+public interface Search {
 
     /**
-     * Perform a Search.
+     * Perform Search for a query.
      *
-     * @param query Query search string.
-     * @return A List of search results from querying this Searchable.
+     * @param query a single search query represented as a String.
+     * @return A List of search results from this search.
      * @throws IOException if an error occurs performing the search.
      */
     public List<String> search(String query) throws IOException;
