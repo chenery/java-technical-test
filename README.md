@@ -45,7 +45,7 @@ Complete the method stub in the ParallelMultiSearch class to provide a fast impl
 
 Example usage: - search google and yahoo searches for "London", in parallel fashion
 
-Note: Assume each Searchable is independent to the others.
+Note: Assume each Search is independent to the others.
 
 Note: The order of the results returned by the MultiSearch is not important.
 
