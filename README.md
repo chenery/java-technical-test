@@ -10,6 +10,8 @@ Java programming questions.
 3. Provide tests in your preferred style to support your solution.  You can use common test libraries such as junit and mockito.
 4. Zip up and email the entire source tree to paul@solidstategroup.com
 
+**Note: Please do NOT spend more than 2 hours on this test.**
+
 In addition to a working solution, we will be looking for:
 
 - Good coding style
